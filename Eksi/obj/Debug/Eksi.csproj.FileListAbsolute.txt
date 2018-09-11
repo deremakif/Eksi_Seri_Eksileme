@@ -1,0 +1,12 @@
+C:\Users\mehmet akif\Desktop\c# dosyası\Eksi sozluk\Seri Eksileme\Eksi\bin\Debug\Eksi.exe.config
+C:\Users\mehmet akif\Desktop\c# dosyası\Eksi sozluk\Seri Eksileme\Eksi\bin\Debug\Eksi.exe
+C:\Users\mehmet akif\Desktop\c# dosyası\Eksi sozluk\Seri Eksileme\Eksi\bin\Debug\Eksi.pdb
+C:\Users\mehmet akif\Desktop\c# dosyası\Eksi sozluk\Seri Eksileme\Eksi\bin\Debug\WebDriver.dll
+C:\Users\mehmet akif\Desktop\c# dosyası\Eksi sozluk\Seri Eksileme\Eksi\bin\Debug\WebDriver.Support.dll
+C:\Users\mehmet akif\Desktop\c# dosyası\Eksi sozluk\Seri Eksileme\Eksi\bin\Debug\WebDriver.xml
+C:\Users\mehmet akif\Desktop\c# dosyası\Eksi sozluk\Seri Eksileme\Eksi\bin\Debug\WebDriver.Support.xml
+C:\Users\mehmet akif\Desktop\c# dosyası\Eksi sozluk\Seri Eksileme\Eksi\obj\Debug\Eksi.csprojAssemblyReference.cache
+C:\Users\mehmet akif\Desktop\c# dosyası\Eksi sozluk\Seri Eksileme\Eksi\obj\Debug\Eksi.csproj.CoreCompileInputs.cache
+C:\Users\mehmet akif\Desktop\c# dosyası\Eksi sozluk\Seri Eksileme\Eksi\obj\Debug\Eksi.csproj.CopyComplete
+C:\Users\mehmet akif\Desktop\c# dosyası\Eksi sozluk\Seri Eksileme\Eksi\obj\Debug\Eksi.exe
+C:\Users\mehmet akif\Desktop\c# dosyası\Eksi sozluk\Seri Eksileme\Eksi\obj\Debug\Eksi.pdb
