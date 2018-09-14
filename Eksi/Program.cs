@@ -15,9 +15,10 @@ namespace Eksi
         {
             IWebDriver driver = new FirefoxDriver();
             driver.Navigate().GoToUrl("https://eksisozluk.com/giris");
-
+            // Waiting users for logging in and going to hater's page. 
             System.Threading.Thread.Sleep(100000);
-
+            
+            // In Eski Sozluk, the most entry owner writer has less than 50000 entries.
             for (int j = 1; j < 5000; j++)
             {
 
@@ -25,6 +26,7 @@ namespace Eksi
 
                 if (j == 1)
                 {
+                    // Clicking first ten entries does no needs to showMore web element. 
                     for (int i = 1; i < 11; i++)
                     {
                         string s = "" + i;
@@ -51,8 +53,8 @@ namespace Eksi
                 }
                 
 
-                IWebElement daha_fazla_goster = driver.FindElement(By.XPath("//*[@id='profile-stats-sections']/a"));
-                daha_fazla_goster.Click();                                  
+                IWebElement showMore = driver.FindElement(By.XPath("//*[@id='profile-stats-sections']/a"));
+                showMore.Click();                                  
 
                 System.Threading.Thread.Sleep(6000);
             }
