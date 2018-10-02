@@ -30,7 +30,7 @@ namespace Eksi
                     for (int i = 1; i < 11; i++)
                     {
                         string s = "" + i;
-
+                        //Please check xpaths before running this program! Eksisozluk may have changed.
                         IWebElement dislike = driver.FindElement(By.XPath("//*[@id='profile-stats-section-content']/div/div[" + s + "]/ul/li/footer/div[1]/span[2]/a[2]"));
                         dislike.Click();
 
